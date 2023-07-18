@@ -133,3 +133,6 @@ dist
 /.cache
 /build
 /public/build
+
+# Prisma
+/prisma/dev.db
